@@ -8,4 +8,20 @@ After downloading, sprites are augmented (hue and saturation changes, then mirro
 
 Example of the process:
 
+1. Download base sprite
+   
 ![Base Bulbasaur Sprite](assets/1Bulbasaur.png)
+
+2. Resize sprite to a custom size (96 by 96 by default, since most sprites are of that size)
+
+![Base Bulbasaur Sprite](assets/1BulbasaurResized.png)
+
+3. Augment by changing saturation and hue
+
+![Base Bulbasaur Sprite](assets/BulbasaurGrid.png)
+
+4. Augment by mirror imaging
+
+![Base Bulbasaur Sprite](assets/1BulbasaurGridMI.png)
+
+5. Convert images from 4-bit to 32-bit (4-bit images are hard to work on in terms of alpha channel)
