@@ -22,6 +22,6 @@ Example of the process:
 
 4. Augment by mirror imaging
 
-![Base Bulbasaur Sprite](assets/1BulbasaurGridMI.png)
+![Base Bulbasaur Sprite](assets/BulbasaurGridMI.png)
 
 5. Convert images from 4-bit to 32-bit (4-bit images are hard to work on in terms of alpha channel)
